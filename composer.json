@@ -1,0 +1,10 @@
+{
+ "name": "tabapp",
+ "type" : "project",
+ "author" : "Nicolas MATEOS",
+ "autoload": {
+ "psr-4": {
+ "tabapp\\": "tabapp"
+ }
+ }
+}
